@@ -1,4 +1,4 @@
 # Alien invasion
-Inspired by Python Crash Course - I will regularly update and improve 🤖
+Inspired by Python Crash Course - I will regularly update and improve when possible 🤖
 
 ![alienInv](https://user-images.githubusercontent.com/40577932/133891795-af54cbeb-c207-419e-aca5-2ee50c5be8f6.jpeg)
